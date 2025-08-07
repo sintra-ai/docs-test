@@ -1,0 +1,46 @@
+# Gigi
+
+**Author:** Unknown  
+**Created:** 1721071269  
+**Updated:** 1738341097  
+**Article ID:** 9612891  
+**Parent ID:** 9842688  
+**Parent Type:** collection  
+
+---
+
+Meet Gigi - your go-to Helper for your personal development. 
+
+![](https://downloads.intercomcdn.com/i/o/1114404077/a67e9aba3c4c14b6bbbea682/image.png?expires=1754573400&signature=a284d396608c7e4d4acbec31fcc0b5b6deebb039204a1c649c9e69460a1d6d2c&req=dSEmEs1%2BmYFYXvMW1HO4zeNxHcKv2GbcVtQ537Y%2BsgMYIvgtdk1zjw13i99r%0A56tT%0A)
+
+Whether you need help planning meals, organizing study sessions, or building workout routines, Gigi is here to support your journey to a better self. 
+
+Gigi can know and understand what you like, and where you want to grow and can adjust your personal growth plans to suit your individual needs.
+
+## **Gigi features**
+
+**Plans your meals**
+
+Gigi creates personalized meal plans that cater to your dietary preferences and nutritional goals.
+
+**Assists with your studies**
+
+Gigi offers strategies and resources to enhance your learning process, helping you achieve academic success.
+
+**Organizes your workouts**
+
+Stay fit and healthy with Gigi’s customized workout plans that match your fitness level and objectives.
+
+**Tracks your personal goals**
+
+With Gigi, set and track personal goals, from career milestones to personal development objectives.
+
+**Offers motivational support**
+
+Receive regular motivational boosts and affirmations from Gigi to keep you inspired and on track toward your goals.
+
+**Helps you plan your day**
+
+Gigi helps organize your daily activities, ensuring you maximize productivity without overlooking personal time.
+
+If you wish to learn more about this Helper, click on this link: <https://sintra.ai/gigi>

@@ -1,0 +1,39 @@
+# Sintra’s global chat search feature explained
+
+**Author:** Unknown  
+**Created:** 1738866207  
+**Updated:** 1740315076  
+**Article ID:** 10517637  
+**Parent ID:** 12115782  
+**Parent Type:** collection  
+
+---
+
+In cases when you vaguely remember a chat you had before, only a specific keyword is stuck in your head, and you know that chat was important - the ability to quickly navigate through information is the key to finding that conversation. With this and our customer feedback in mind, we have developed and released global chat search functionality on **February 3, 2025** , for **both iOS and Web apps** , ensuring seamless access across platforms.
+
+Now, all of the conversations that you have had with our AI Helpers **since this day** \- will be included when you search for a specific topic or conversation in the Chat History! This functionality **will look for exact keyword matches**.
+
+It’s important to note that, to ensure security and efficiency - we could only include those chat messages that were sent or received after the feature was rolled out. This means that chat messages sent or received until **February 3, 2025,** will not be included in the search, even if they have the keywords you’re looking for. 
+
+## How to find a specific term in Chat History
+
+Since our global search functionality will not display the exact term you’re looking for within the chat but list out the chats that have this keyword - there’s a way to do it on your computer for short chats. You'll need to open up each chat and inspect it individually:
+
+  1. Go to “**Chat History** ”.
+
+  2. Search for the term you want to find.
+
+  3. Click on the chat suggested.
+
+  4. Click **CTRL+F** on Windows or **CMD+** F on macOS.
+
+  5. Type the term you want to find in the field that pops up.
+
+
+
+
+If the chat you had was longer - you may need to scroll up, until you find it.
+
+## How to provide feedback on Global Chat Search feature
+
+In case you have some feedback on our Global Chat Search feature that you would like us to know - contact our customer support team via email at [help@sintra.ai](mailto:help@sintra.ai)!

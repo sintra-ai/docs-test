@@ -1,0 +1,57 @@
+# Integrating your Google account to Sintra
+
+**Author:** Unknown  
+**Created:** 1736774441  
+**Updated:** 1744111671  
+**Article ID:** 10383940  
+**Parent ID:** 13485872  
+**Parent Type:** collection  
+
+---
+
+Integrating your Google account with Brain AI enhances productivity by allowing seamless access to Google services. You can manage your calendar, emails, documents, and analytics directly from the Brain AI interface. This integration streamlines your workflow, making it easier to stay organized and efficient.
+
+* * *
+
+## Connecting a Google account
+
+To start using your Google account in Sintra, you will need to integrate it inside Brain AI. To make an integration, follow these steps:
+
+  1. Click on the Brain AI button in the sidebar
+
+![](https://downloads.intercomcdn.com/i/o/s36tbegb/1369063526/d8c7cba35b7575d9b39e9788d5d6/AD_4nXf5cOoKB1QcmxzBIpwXvljnXza60HkDspcjPdpnZox88-fm9NySs2Nh-A6ZgnkqwuQ0w_A7No-UiRSRJ7Sndy0aT7IGSJ9xLE2qMVP8VmG3czQ9CkYNVwwm2Lcu5gv5slP53qbTYw?expires=1754573400&signature=be04782c7ebddf8e8a08f02ce2be63fce3d7516daf7b418353aeab5903476026&req=dSMhH8l4noRdX%2FMW1HO4zcXDOwbXmhANs4%2F%2B1Shgi712GZ1FYEsQdGVs0xJ3%0Anwpq%0A)
+
+  2. Locate the Gmail, Google Calendar, Google Drive, or Google Analytics integration, click "**Connect** " and "**Add new account** "
+
+![](https://downloads.intercomcdn.com/i/o/s36tbegb/1369063613/1bcdbc9a92da750cddd9d66ff671/image.png?expires=1754573400&signature=6b3a9747bc1b34ef85f50a7f211ce1f721e7adda42d12156b81ae2a2bbb4ddc3&req=dSMhH8l4nodeWvMW1HO4zfmMvGcBxzNjTFbvf2hkLWA6nUMwB%2BYVzm1o%2B6zz%0A6zXW%0A)
+
+  3. In the new window that appears, choose the Google account you wish to use
+
+![](https://downloads.intercomcdn.com/i/o/s36tbegb/1369064025/fc4dcff0b185261ab2c6db47cd51/image.png?expires=1754573400&signature=cfa049788a9aa51017f0199aa180a1e97a5c3d7ba2414c9071995c344c8feb10&req=dSMhH8l4mYFdXPMW1HO4zRFCGbhV7ttdz1JE2tqCm19MaT1O4%2FmURd6TL78P%0AA9H9%0A)
+
+  4. In the next window, allow Sintra App to integrate
+
+     1. Gmail
+
+![](https://downloads.intercomcdn.com/i/o/s36tbegb/1369070916/316af2171d0166babde9b3f95f94/AD_4nXevIh-fycf6AM2iJJ8tZKTJuIktEGAn_1sqQ1UYQJGqCtc7AFgau4SQ_nvKt9e8-T7cmW6YTuaX5ijxhXjoHBs5z-GgBH72CRKS8HAmVeTZbFn5ZtjgPsoJ1CbtwKyrmY4vBPZ4?expires=1754573400&signature=6484d89488ac160bd4e29cb812ee8946de08e9bc9d75f4764c97aa1869634600&req=dSMhH8l5nYheX%2FMW1HO4zWqS7O5KAjmJQSd2gB%2BXsPwYllai%2B2Zr6eWo2m5e%0A832H%0A)
+
+     2. Google Calendar
+
+![](https://sintra-bfc815b4cdbb.intercom-attachments-7.com/i/o/s36tbegb/1369073538/fb2d45f11d0e14ac4cb8ac4052de/AD_4nXfh0jAOIyb9KtdtVNwbqPYeFKo9Aqq6s0pQMmSVhESZcl7UPeQxSA0oi17iEaPclStDkrMvfEsjHcJvRbO6yhAkbSpk3qtZiLsYivH9easKMT_LWDa8I8nXi6ty5rfYLdyBhcp-pQ?expires=1754573400&signature=125923c9f3ffa3a02b02c07eeee390a48e461a6488c6f5f1e6e07684b5ea2f79&req=dSMhH8l5noRcUfMW1HO4zUuNK4FYMW3YHxDMfDaYErZYdsPUm8q%2BXU%2BVSXF4%0AZ8f8%0A)
+
+     3. Google Drive
+
+![](https://downloads.intercomcdn.com/i/o/s36tbegb/1369071423/0c5922635cf078310d006dacaf43/AD_4nXe1RiVoS6R3a7jdAqsGXkJNseUlU8i_nEj9ESZcknohyS_cxkvjqDO2hp2JbjmnJIEkBcmJGNQ6JcC1iLmZfpxuTw7RmwMjRP6ZhDfavDhi2tMQ1dBhAa1NVdcqtgNp-iB-eFM72A?expires=1754573400&signature=2c37f09920ddeff7bad13fa183b3c09af950338d1ba10b1e68a90c1dede97aeb&req=dSMhH8l5nIVdWvMW1HO4zUrrx1rp%2FzRZkk2yRwtqXWmtj0hu0ktPlrAEFSvh%0ASJzb%0A)
+
+     4. Google Analytics
+
+![](https://downloads.intercomcdn.com/i/o/s36tbegb/1464708673/01944a4a4f1166bc6f49cdced981/image.png?expires=1754573400&signature=24db310741ab0e5df13c9d836d7a78f6eed8ecaec0a6f74bfd0ebf2042ce9e08&req=dSQhEs5%2BlYdYWvMW1HO4zalwAvdaScC7vuf39OJT5CBMx%2BaNTdnhGulgY%2BDw%0At5%2FD%0A)
+
+  5. The connection to your account will be made and the "**Connect** " button will change to a green checkmark
+
+![](https://downloads.intercomcdn.com/i/o/s36tbegb/1369072064/82d72142ba965436c88fd39503e0/AD_4nXdQRUoy6T7JZSp20Bjb6q8-cQOSxpOlTDnTkdTXylfzyBqVN64Z7IdJ-Nk3NwLUfmSM2Tda1l_7t6syLa6trteNpqp0giIrLT3rDv3kVP8BH19doXPubQdczO8gkCuBGXWdtChv3w?expires=1754573400&signature=94245b0b7dbb91a4a53e84a07a920753e2255c96400fcaecfcca80c0ecbcd265&req=dSMhH8l5n4FZXfMW1HO4zZ%2BjUz5r%2FOU%2FGXsiE4GzrCht4xKX4SsBy4llSJWa%0AP3SE%0A)
+
+
+
+
+That's it! Helpers will now have the ability to manage your Gmail, Google Calendar, Google Drive, and Google Analytics.

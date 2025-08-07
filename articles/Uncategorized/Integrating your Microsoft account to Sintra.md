@@ -1,0 +1,41 @@
+# Integrating your Microsoft account to Sintra
+
+**Author:** Unknown  
+**Created:** 1736775066  
+**Updated:** 1740915014  
+**Article ID:** 10383990  
+
+---
+
+Integrating your Microsoft account with Brain AI boosts productivity by providing direct access to Microsoft services. You can manage your Outlook emails and calendar right from the Brain AI interface. This integration streamlines your workflow, helping you stay organized and efficient.
+
+* * *
+
+## Connecting a Microsoft account
+
+To start using your Microsoft account in Sintra, you will need to integrate it inside Brain AI. To make an integration, follow these steps:
+
+  1. Click on the Brain AI button in the sidebar
+
+![](https://downloads.intercomcdn.com/i/o/s36tbegb/1380682150/acaa4894e534e9da7600b3fc3cfe/AD_4nXf5cOoKB1QcmxzBIpwXvljnXza60HkDspcjPdpnZox88-fm9NySs2Nh-A6ZgnkqwuQ0w_A7No-UiRSRJ7Sndy0aT7IGSJ9xLE2qMVP8VmG3czQ9CkYNVwwm2Lcu5gv5slP53qbTYw?expires=1754573400&signature=72fa0725a59b74728e43a477978f52350e88e70b6b7f0fc08a806a29d27acae4&req=dSMvFs92n4BaWfMW1HO4zVq39OnoXv7LqyfjFF3FvNLT9toHihSD%2BgK7b4Jo%0AE8Mm%0A)
+
+  2. Locate the Microsoft integration, click "**Connect** " and "**Add new account** "
+
+![](https://downloads.intercomcdn.com/i/o/s36tbegb/1380682755/6da4e755ba64093f7ecef1545057/image.png?expires=1754573400&signature=801601cbaad20b912079108d7a13794640c95c1a8eedf567810113053fe6e2b4&req=dSMvFs92n4ZaXPMW1HO4zVFJLcDELw0loyIlGfsb0BhzJY%2BKk4RA0SzBAgwu%0A%2BnF8%0A)
+
+  3. In the new window that appears, enter your Microsoft account information and sign in
+
+![](https://downloads.intercomcdn.com/i/o/s36tbegb/1380682965/ae4cbd89cf22d0145e6a72174eff/AD_4nXcE97XHd1hcO7vZ14iD2TiEvSsQW8yzyKaLe6C7aoYdemx69nsGkO758Q7DUVuwyaD5H8IdQWh0JZ5ulBuWoZL4_u6BFmCnvtQmVWJR0JtFf_7EtN4UDOQDL5bec2gDt61xv3x49w?expires=1754573400&signature=7c8d6d6c83ee8e142be23930a1b491638824ce6376efb9e8fe2c471be95422ed&req=dSMvFs92n4hZXPMW1HO4zTRQjB%2FcD0i4I1ZaTs30bj3TNF%2FTKHImukJFHhpO%0AHTcS%0A)
+
+  4. In the next window, allow Sintra App to integrate
+
+![](https://downloads.intercomcdn.com/i/o/s36tbegb/1380683115/5a805c3f8b3540114324f126fca3/AD_4nXeZx9MTwSvy4iNIVFsjrkc6KbwDs9kCvgRIWysh-5LyyKqyXfZd3kzTE4qsaLzZH7Y5e9BSg9MNvjoBH3-5hWNPp6yjRhbBHBX0EIkNO8AI_LguI7jW5deSW5F16IrcDf6gSLY6Wg?expires=1754573400&signature=056cfb237061e2d6930c142fe64c766b83f89d7925836b39fdff5fb67ae00f8d&req=dSMvFs92noBeXPMW1HO4zbQ7hFHaYfJPx%2FUrz1pQSp1dUQSTrVUvVtPsOv2T%0AbsWY%0A)
+
+  5. The connection to your account will be made and the "**Connect** " button will change to a green checkmark
+
+![](https://downloads.intercomcdn.com/i/o/s36tbegb/1380683185/7ab217984dac2e8aca24ba7569fa/AD_4nXdQRUoy6T7JZSp20Bjb6q8-cQOSxpOlTDnTkdTXylfzyBqVN64Z7IdJ-Nk3NwLUfmSM2Tda1l_7t6syLa6trteNpqp0giIrLT3rDv3kVP8BH19doXPubQdczO8gkCuBGXWdtChv3w?expires=1754573400&signature=95367337ba1ee00a371a0db5a5d8e141904226d2fb4e7f7b8a7787637ea914f6&req=dSMvFs92noBXXPMW1HO4zT7MeX7SWOVwL7m7fjyBdPSuxWHsViPX0woGo75x%0AmHlw%0A)
+
+
+
+
+That's it! Helpers will now have the ability to manage your Outlook email and calendar.

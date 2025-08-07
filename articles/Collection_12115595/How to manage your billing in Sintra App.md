@@ -1,0 +1,44 @@
+# How to manage your billing in Sintra App
+
+**Author:** Unknown  
+**Created:** 1720892779  
+**Updated:** 1752246429  
+**Article ID:** 9607392  
+**Parent ID:** 12115595  
+**Parent Type:** collection  
+
+---
+
+You can overview the subscriptions you have and manage your billing within the Sintra App!
+
+To do so, you will need to:
+
+  1. Go to **account's settings** by clicking on the **gear icon** in the bottom left corner:  
+​
+
+![](https://downloads.intercomcdn.com/i/o/s36tbegb/1597885633/865315a6cc4cbfdf8627b6e07338/Screenshot+2025-07-01+at+20_19_11.png?expires=1754573400&signature=2e56f848abe4fc121c79b2d98538bad81289d6125d7f0011f0bc39a461188d9c&req=dSUuEcF2mIdcWvMW1HO4ze9hPAvR9kjcr45cSNGsoWx%2FaSXL3UvWS3KhuBwq%0ARtG6%0A)
+
+  2. Then, scroll down until you reach "Billing details" section:  
+​
+
+![](https://downloads.intercomcdn.com/i/o/s36tbegb/1597887446/dc6c0cb4f9c5181fb8c8b88ecb4c/Screenshot+2025-07-01+at+20_22_37.png?expires=1754573400&signature=0823fa0bcb7bfbdefd4d17043fe2640085c8504f75a3e3549b019efe2e1839d4&req=dSUuEcF2moVbX%2FMW1HO4zULjCRVWJCovBtiQQL7o3k3B4UyTD6ISubIum1Q9%0AiDBi%0A)
+
+
+
+
+# Overviewing your subscriptions
+
+Just under "Billing details" you will find your subscription plans listed out, each with a "Plan" label. This will provide an overview of your subscription plans and their statuses.
+
+# Managing your billing
+
+Using the "Manage billing" button under the "Billing details" section, you'll be able to:
+
+  * Modify billing details
+
+  * Update payment information
+
+  * Cancel your subscription
+
+
+

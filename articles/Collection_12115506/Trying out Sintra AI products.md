@@ -1,0 +1,24 @@
+# Trying out Sintra AI products
+
+**Author:** Unknown  
+**Created:** 1722347434  
+**Updated:** 1727116471  
+**Article ID:** 9675492  
+**Parent ID:** 12115506  
+**Parent Type:** collection  
+
+---
+
+## **No Free Trials**
+
+We do not offer free trials of our products. However, we do provide a 14-day money-back guarantee. You can read the detailed Terms and Conditions [here](https://sintra.ai/terms-and-conditions).  
+​
+
+## **Assessing Fit for Your Needs**
+
+To find out whether our products could be a good fit for your needs, contact us. Let us know about your expectations, goals for Sintra AI, and the processes you are interested in automating. Our team will be happy to assist you in determining the best solutions for your requirements.  
+​
+
+Note from our [Terms of Service](https://sintra.ai/terms-and-conditions):  
+  
+_"The Site and the Service is solely for your personal and non-commercial use. Unless otherwise expressly authorized in writing by Sintra, you agree not to display, distribute, license, perform, publish, reproduce, duplicate, copy, create derivative works from, modify, sell, resell, exploit, transfer or upload for any commercial purposes, any portion of the Service, use of the Service, or access to the Service."_

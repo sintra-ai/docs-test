@@ -1,0 +1,49 @@
+# Cassie
+
+**Author:** Unknown  
+**Created:** 1721041286  
+**Updated:** 1753803810  
+**Article ID:** 9611187  
+**Parent ID:** 9842688  
+**Parent Type:** collection  
+
+---
+
+Meet Cassie - an AI-powered customer support specialist who never sleeps.
+
+![](https://downloads.intercomcdn.com/i/o/1113801895/61e85ac2c280a0edd2f1cba1/image.png?expires=1754573400&signature=b949845b5c325702d2383a53cfefe0dd1410394cb68a9c785b6f726052b8d076&req=dSEmFcF%2BnIlWXPMW1HO4zSt3t59O5jCw6KIpdBRx8sBCF58OfTcF722j3x19%0ASnvk%0A)
+
+Cassie is trained with insights from thousands of customer interactions making her knowledgable in empathic and customer-oriented communication. Armed with a database of best practices and common resolutions, Cassie operates like your most reliable support team member. 
+
+By expanding the Brain AI Knowledge base you can ensure she has the knowledge to accurately do the following:
+
+  * Craft responses to customer emails or chats 
+
+  * Create product manuals and FAQs
+
+  * Draft personalised responses to Facebook page comments
+
+
+
+
+If you provide her with data on customer feedback - she'll also be able to generate a report.
+
+You can also utilise Cassie to gain insight on how your customer service can level-up and improve as she has all of the best practices in her training!
+
+# **Cassie's features**
+
+Having access to our Helper Cassie also grants access to Facebook commenter automation. Currently, this is the only automation available for Cassie that will run in the background. With this automation enabled - Cassie will craft and prepare replies to new Facebook comments; however, she will not respond without your confirmation. In order for her to reply with the crafted response you will need to approve the draft.
+
+[Learn more about automations](https://help.sintra.ai/en/articles/9823490-automations-explained)
+
+# FAQ
+
+## Can Cassie be integrated to my website?
+
+No, at this point in time, Cassie (the Sintra.ai chatbot) cannot be embedded or directly integrated into external services such as your website, including platforms like Shopify or WordPress. This is a functionality we're looking into to develop; however, we do not have any ETA of when it would be available and Cassie is not able to be running as a live chatbot on your site or social media platforms.
+
+## Can Cassie respond to my social media DMs?
+
+No, Sintra does not support automated replies to social media ( for e.g. LinkedIn< Facebook or Instagram) inbox messages. Cassie can only craft responses to comments under Facebook page posts that you will need to confirm. She can craft responses to user messages while utilising the knowledge gathered in the Brain AI, but you will need to copy and paste her response.
+
+If you wish to learn more about this Helper, click on this link: <https://sintra.ai/cassie>

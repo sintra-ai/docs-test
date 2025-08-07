@@ -1,0 +1,51 @@
+# Helpers don't help
+
+**Author:** Unknown  
+**Created:** 1740676379  
+**Updated:** 1747663172  
+**Article ID:** 10670493  
+
+---
+
+_You might be wondering why the Helpers sometimes sound a bit off when delivering the useful and necessary information they were designed for, right?_  
+​  
+Let’s break it down.
+
+Helpers are built on Large Language Models that understand and generate human language. These models are trained on vast amounts of text data, which enables them to predict and generate text that is contextually relevant and coherent. This enables human communication between you and the Helper, which makes text-based tasks possible to accomplish!  
+​  
+​
+
+# ​​Instruction + Example or Relevant Question = The Help You Need.​
+
+When you have a task in mind, think of the goal: what do you want to reach, and what information is needed to achieve it?   
+​  
+This is the context the Helper will benefit from knowing, and if the Helper benefits from it - so do you. If you're uncertain what information to give the Helper, you can ask them!   
+​  
+For example: "I want to do a task on x, the goal is to reach y. What information is needed so you can do it?"The Helper will give you information on what they need to know to finalize your task according to **your** needs!
+
+At first, mastering prompting may seem complex, but it’s easier than it appears. The key lies in how you structure your request and choose the right wording.
+
+##   
+  
+Phrases like “your task is” or “you must” WON'T give the model a better understanding of its tasks and priorities.  
+
+
+Using strict phrasing like **"your task is..."** or **"you must..."** does not improve the model's understanding of its tasks and priorities. Moreover, **"threatening"** or penalizing the model for undesirable outcomes can lead to unpredictable behavior or even attempts to bypass restrictions, raising serious AI safety concerns. — "[Time](https://time.com/7202784/ai-research-strategic-lying/)"
+
+The **positive reinforcement and polite phrasing** can significantly enhance the quality of the model's responses. Research shows that **polite prompts lead to more accurate and less biased answers** , whereas overly strict or aggressive wording may reduce the model's effectiveness. Thus, using positive encouragement can assist Helper in trying to perform the task again. This works for tasks that you know helpers are able to perform.
+
+NOTE! : [be nice to your ai it really does make a difference](https://www.thetimes.com/uk/technology-uk/article/be-nice-to-your-ai-it-really-does-make-a-difference-89ftllnz8?)⭐️
+
+##   
+  
+Gradually breaking down complex tasks into simpler prompts that lead to the desired outcome.  
+
+
+Incorporating the phrase **"Let's think step by step"** into your prompts can encourage AI models to approach responses in a sequential and logical manner. 
+
+This technique, known as **Chain-of-Thought (CoT) prompting** , has been shown to enhance the reasoning capabilities of large language models. For instance, the research indicates that appending this phrase to a prompt can significantly improve the model's performance on complex tasks.   
+​  
+Please visit _[the Introduction to Large Language Models by Microsoft.](https://learn.microsoft.com/en-us/training/modules/introduction-large-language-models/)_  
+​ 
+
+The wording of your request plays a crucial role—phrases like _"Hello, I'm back"_ may cause helpers to **lose continuity, as they operate based on direct instructions and execute tasks on demand rather than engaging in open-ended conversations.** Instead, we recommend using clear and structured commands while incorporating positive reinforcement, such as "please" and other polite expressions, for the best results.

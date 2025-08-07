@@ -1,0 +1,41 @@
+# Image generation
+
+**Author:** Unknown  
+**Created:** 1752235552  
+**Updated:** 1752241077  
+**Article ID:** 11756993  
+
+---
+
+#### **Can Helpers generate text in the image?**
+
+When generating entirely new images, Sintra provides high-quality results and is especially effective at generating accurate text. Unlike its earlier capabilities, Sintra can now produce clear and readable letters and words directly within the image.
+
+Generate text "SALE 50% OFF" or event flyers with "Join us July 15th" – text now renders perfectly every time.
+
+![](https://downloads.intercomcdn.com/i/o/s36tbegb/1615021720/a6139698c61331835bdbb821e9f8/old-new-imagen.jpg?expires=1754573400&signature=09caad1384c1931d3ab9e89465b9ec8712efcaa1942ab0421216fc6c47a71bdd&req=dSYmE8l8nIZdWfMW1HO4zXYPE0%2BvAXV5ZvU7QTOGbcqX0ZGpW4x56Hid%2BUz%2F%0AHTmS%0A)
+
+#### **Can Helpers edit uploaded images?**
+
+When working with existing images, Helpers take an image as a reference and modify it. You can request changes such as adding or editing text, adjusting colors, or altering objects within the image. 
+
+Turn a red car blue, remove photobombers from team photos, or update existing banners.
+
+Edit the background while keeping faces untouched, update text without affecting your brand elements, or change colors while maintaining original quality.
+
+![](https://downloads.intercomcdn.com/i/o/s36tbegb/1615044575/147bdeb44cb88ded37544da9cb6a/image.png?expires=1754573400&signature=995f2c6ee29fd81cb736429065e23b495b0a401d2e96926e55edc4da7444603e&req=dSYmE8l6mYRYXPMW1HO4zTf6gqej007x0nCOmSHu5Cf0gUs2jNr%2F%2BLay1ioC%0A6zF%2B%0A)
+
+Product mockups look photo-quality, team headshots feel natural, and marketing visuals blend seamlessly with real photos!
+
+Note: When requesting edits to an existing image, be sure to clearly specify what you would like to change.
+
+**What are the image generation limitations?**
+
+  * Adding logos or new objects to existing images is not yet supported.
+
+  * Edited images are currently limited to lower resolution.
+
+
+
+
+We’re aware of these limitations and are continuing to explore ways to improve these functionalities.

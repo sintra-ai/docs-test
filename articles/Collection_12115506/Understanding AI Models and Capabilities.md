@@ -1,0 +1,30 @@
+# Understanding AI Models and Capabilities
+
+**Author:** Unknown  
+**Created:** 1722347695  
+**Updated:** 1752158661  
+**Article ID:** 9675514  
+**Parent ID:** 12115506  
+**Parent Type:** collection  
+
+---
+
+## **What AI Models are Used in Sintra App?**
+
+Sintra Helpers are trained on GPT-4.1 and Claude 4 Sonnet for text-based tasks, and Imagen 4 and gpt-image-1 for image generation.
+
+## **Do I need to pay for GPT tokens if I want to use Sintra Helpers?**
+
+No, we cover the token costs for Sintra Helpers and their power-ups.
+
+## **Is the image generation tool suitable for generating images with text?**
+
+With our latest improvements - the image generation models we use are able to generate text perfectly in images.
+
+## **Can I generate a sequence of images using the same theme?**
+
+Currently, the model can edit the image created previously, however, you have to specify this in your request. The model does not automatically remember the previous image it generated. If you wish to stay on the same theme - specify the details you liked about the previously generated image and clarify what else you'd like to see in the new one.
+
+## **Are these Helpers the same as ChatGPT?**
+
+Sintra Helpers offer more than ChatGPT. You can have unlimited chats, easily set up knowledge libraries in Brain AI, and connect other platforms so the helpers can post and send emails for you, all in one place.

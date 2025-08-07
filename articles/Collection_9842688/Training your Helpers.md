@@ -1,0 +1,38 @@
+# Training your Helpers
+
+**Author:** Unknown  
+**Created:** 1721071966  
+**Updated:** 1740419277  
+**Article ID:** 9612926  
+**Parent ID:** 9842688  
+**Parent Type:** collection  
+
+---
+
+Training your Sintra Helpers to be the ideal assistants for your business is a straightforward process. 
+
+Follow these steps to ensure they are well-equipped to meet your needs:
+
+## **1\. Feed Them Your Knowledge**
+
+Upload specific business documents, files, or any relevant information to your Sintra Helpers. The more detailed and comprehensive the information, the better they can assist you. You can upload knowledge directly to Helper or use [Brain AI](https://app.sintra.ai/brain) for all of the Helpers to access. 
+
+## **2\. Customize Their Skills**
+
+Integrate unique Brain AI knowledge bases into your Sintra Helpers. This customization helps them understand the intricacies of your business and provide more accurate and relevant assistance.
+
+## **3\. Utilize Power-Ups**
+
+Enhance the functionality of your Sintra Helpers with over 90 power-ups. These tools can help with tasks such as creating viral LinkedIn posts, writing landing page scripts, and generating customized email flows, making your Helpers even more powerful with [Power-Ups](https://app.sintra.ai/powerups).
+
+## **4\. Provide Constant Feedback**
+
+Regularly update your Sintra Helpers with new information and insights. This continuous feedback loop ensures they remain sharp and aligned with your evolving business goals.
+
+## **5\. Engage with the Community**
+
+Join the Sintra community on Facebook to share experiences and get tips from other entrepreneurs here: <https://www.facebook.com/groups/sintra.community>. Engaging with the community can provide valuable insights and help you maximize the potential of your Sintra Helpers.
+
+By following these steps, you can train your Sintra Helpers to become highly efficient assistants, tailored to your business needs. 
+
+However, if you have more questions - do not hesitate to contact our customer support team!

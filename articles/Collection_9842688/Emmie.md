@@ -1,0 +1,46 @@
+# Emmie
+
+**Author:** Unknown  
+**Created:** 1721071178  
+**Updated:** 1738341096  
+**Article ID:** 9612884  
+**Parent ID:** 9842688  
+**Parent Type:** collection  
+
+---
+
+Meet Emmie - the world’s first AI email marketing assistant.
+
+![](https://downloads.intercomcdn.com/i/o/1114402484/974c11c49b03c5c91dea5fd6/image.png?expires=1754573400&signature=0e38c08caf57d7784e90aaf7bf5d1b18e9c666a9817ef5a1a4e0f99770467d69&req=dSEmEs1%2Bn4VXXfMW1HO4zXvhKbsSO%2FgiNLzizsJ0TxAa9U3S%2Bl%2BOSrAOGHem%0AbiUB%0A)
+
+Trained on thousands of best practices, Emmie can help you from crafting emails to designing effective win-back automations, ensuring your emails achieve maximum results.
+
+Emmie crafts personalized email sequences: welcomes, cart reminders, and post-purchase messages.
+
+## **Emmie features**
+
+**Creates welcome emails**
+
+Emmie creates engaging welcome emails that make a great first impression and set the tone for your new subscribers.
+
+**Builds abandoned cart email flow strategies**
+
+Emmie crafts targeted emails to re-engage customers who have abandoned their shopping carts, encouraging them to complete their purchases.
+
+**Enhances post-purchase experience**
+
+Strengthen customer relationships with Emmie’s post-purchase follow-ups that encourage feedback and repeat business.
+
+**Organizes your email campaigns**
+
+Manages and executes comprehensive email marketing campaigns that captivate and convert your audience.
+
+**Generates your email content**
+
+From newsletters to promotional updates, Emmie provides fresh, compelling content for all your email needs.
+
+**Helps re-engage your past customers**
+
+Emmie generates win-back email flows to rekindle interest and reactivate customers who haven't purchased in a while.
+
+If you wish to learn more about this Helper, click on this link: <https://sintra.ai/emmie>

@@ -1,0 +1,41 @@
+# Integrating your Strava account to Sintra
+
+**Author:** Unknown  
+**Created:** 1736776172  
+**Updated:** 1740914855  
+**Article ID:** 10384069  
+
+---
+
+Integrating Strava with Brain AI allows you to easily track and manage your fitness activities. You can access your recent workouts and performance metrics directly from the Brain AI interface, helping you stay motivated and informed about your fitness journey.
+
+* * *
+
+## Connecting a Strava account
+
+To start using your Strava account in Sintra, you will need to integrate it inside Brain AI. To make an integration, follow these steps:
+
+  1. Click on the Brain AI button in the sidebar 
+
+![](https://downloads.intercomcdn.com/i/o/s36tbegb/1369052238/0758348ec54be6a3c94342a62cdc/AD_4nXf5cOoKB1QcmxzBIpwXvljnXza60HkDspcjPdpnZox88-fm9NySs2Nh-A6ZgnkqwuQ0w_A7No-UiRSRJ7Sndy0aT7IGSJ9xLE2qMVP8VmG3czQ9CkYNVwwm2Lcu5gv5slP53qbTYw?expires=1754573400&signature=1235ae4b50747464f38fa252a57eb6abc96914714abfbd48b43baef1bbe3901f&req=dSMhH8l7n4NcUfMW1HO4zRk5ttdQtmR8w66r1PgPig8o4fPRu9RgeTLsHLuM%0A4GDA%0A)
+
+  2. Locate the Strava integration, click "**Connect** " and "**Add new account** "
+
+![](https://downloads.intercomcdn.com/i/o/s36tbegb/1369052742/e200afbc5673d9ca1a0ef34d3b35/image.png?expires=1754573400&signature=29879f5508da8c758f1f6518d1ac741d5c397151fa978081c566fcd94abf4fc8&req=dSMhH8l7n4ZbW%2FMW1HO4zbcW3KPgPtgmVhv8g6rlxNqhfBUDCssgIgX302%2BZ%0AEEMk%0A)
+
+  3. In the new window that appears, choose your login method
+
+![](https://downloads.intercomcdn.com/i/o/s36tbegb/1369052947/39d2419ef0c44c7bb3656c5b5ccd/AD_4nXco2F7otZ7wr95c9rNgNUYTbsl8yjVM5YTlafvZYZFlyqfLIALNCbN6EYSEQbzh2LO0K3i2cSO3dBDTc34RnJwx2jJGefJb6PFwoSulrDgChvpyk7sB0O-fMFN2XCtsjszQTObx?expires=1754573400&signature=265b929148c3792bc4804152c9450953a2cd87d8d7fd8d08a171588a77f7643d&req=dSMhH8l7n4hbXvMW1HO4zXJ%2BVzoMeZlxbQCerb%2BFcBXXhfJiPVhfKK5KOwqA%0AEbLn%0A)
+
+  4. In the next window, allow Sintra App to integrate
+
+![](https://downloads.intercomcdn.com/i/o/s36tbegb/1369053104/3462414eba70670544311c9d15e3/AD_4nXf2L3LVMp8krpZ7wWyt_QSIWEpH1mXgilifgqNMAwv-QDNCoRdwSace7T-HWEY-8_RAv0iaCRr71U-_m2gYLIgzX-FXsMVmXxdiUSt7qguGiM1FxLuvhe3whvHxWnTfZXsHT5B48A?expires=1754573400&signature=35896144eec73d847aac3a1b9a96eece0d1a9651123cbb7243efeec3931a1c3b&req=dSMhH8l7noBfXfMW1HO4zSwhm5WA4qUeeUQQFTCERav3rtI%2BxlgPVINiw1Nq%0AaBWc%0A)
+
+  5. The connection to your account will be made and the "**Connect** " button will change to a green checkmark
+
+![](https://downloads.intercomcdn.com/i/o/s36tbegb/1369053146/ce3a0253f7a461682b1889760c1f/AD_4nXdQRUoy6T7JZSp20Bjb6q8-cQOSxpOlTDnTkdTXylfzyBqVN64Z7IdJ-Nk3NwLUfmSM2Tda1l_7t6syLa6trteNpqp0giIrLT3rDv3kVP8BH19doXPubQdczO8gkCuBGXWdtChv3w?expires=1754573400&signature=255679d8393f31aa7c201fdeb7992de950dc5b32d5e97e7bde64cc30fcbcb4c5&req=dSMhH8l7noBbX%2FMW1HO4zfLpYkaJqyy8tEvZdWO%2B9WBmyADxM9qoHE7dt3I0%0AGSOZ%0A)
+
+
+
+
+That's it! Gigi will now have the ability to use your results to improve your personal development goals.

@@ -1,0 +1,116 @@
+# Integrating your Facebook + Instagram account to Sintra
+
+**Author:** Unknown  
+**Created:** 1736776523  
+**Updated:** 1753864315  
+**Article ID:** 10384189  
+
+---
+
+Integrating your Instagram and Facebook accounts with Brain AI allows seamless content sharing across both platforms. You can manage posts, and engage with your audience all from one place. This integration simplifies social media management, enhancing your online presence and engagement.
+
+To get the most out of the Facebook + Instagram integration, make sure to connect an Instagram account to your Facebook page first. Once that's done - you can proceed to connect your Facebook account to Brain AI.
+
+* * *
+
+## Connecting an Instagram account to a Facebook page
+
+If you want to manage both Instagram and Facebook posts with Sintra - you should first ensure that an Instagram account is connected to your Facebook page. Follow the steps below to set up a connection between an Instagram profile and a Facebook page:
+
+**Important:** Only professional (business or creator) Instagram accounts can be connected with Sintra. 
+
+  1. Log into Facebook, click your profile photo in the top right, and select the Page you want to switch to.
+
+![](https://downloads.intercomcdn.com/i/o/s36tbegb/1332796581/13b768cc56d8176e811cc9d8edfb/image.png?expires=1754573400&signature=92f62713c5d812905ae3ad2bdd0f480a1a5e529d510895c8bf1bb312482f2de3&req=dSMkFM53m4RXWPMW1HO4zbRUb3G3MJ8%2FISGkrENjuMYiXCTSr71SEzpOmhK%2B%0AsKgs%0A)
+
+  2. Once chosen, click your Page's profile picture in the top right once more. Then click "**Settings & privacy"**.
+
+![](https://downloads.intercomcdn.com/i/o/s36tbegb/1369025103/d165245e72d31332b90d65229a8a/image.png?expires=1754573400&signature=5c768992cc4c65440a100e0cfdc001efdc54552cf4de81f91e158fb6ef600637&req=dSMhH8l8mIBfWvMW1HO4zelfwJxVztCJyAxyVQCTrhRpm0PleXNF6H%2B15lT6%0AYBJQ%0A)
+
+  3. Click "**Settings** " 
+
+![](https://downloads.intercomcdn.com/i/o/s36tbegb/1369025432/ea264f9daf6b4c4def842b5c0ac0/image.png?expires=1754573400&signature=d0a2589bb5e578a24b877bf95bcf42bfab0f96216a9c2d8e34d18059bb6bbf29&req=dSMhH8l8mIVcW%2FMW1HO4zXQsI7UDZLAxjsVvhaICDFePCjm0gKbsw6Vr2itQ%0A2UpC%0A)
+
+  4. On the left side menu, under "**Permissions"** , click "**Linked accounts"**.
+
+![](https://downloads.intercomcdn.com/i/o/s36tbegb/1369025558/131394ffef2285f28ef93541fc36/image.png?expires=1754573400&signature=59c48f6ea0172ef544db9431762649c26bcadd03b27e9944127965f86a7927e1&req=dSMhH8l8mIRaUfMW1HO4zaIAR6c7qfDbOtDxPlXMwICZ5U9mBAxyrcn4QVrM%0AROz6%0A)
+
+  5. Click on **Instagram**
+
+![](https://downloads.intercomcdn.com/i/o/s36tbegb/1369025876/7ef9fe2907d27920509b66755b3e/image.png?expires=1754573400&signature=25053b42c2eb58babe246595ba83885b34942890cf2e5a90501711f92165f6c2&req=dSMhH8l8mIlYX%2FMW1HO4ze1qLnjoJLJcbChiHiAmaRKLZSEBhMsTnZp3BmSs%0AncvQ%0A)
+
+  6. In the new menu, press "**Connect account** "
+
+![](https://downloads.intercomcdn.com/i/o/s36tbegb/1369025992/ad478c2c7056d3b3018aee4d4a86/image.png?expires=1754573400&signature=982a5946f4aca6ea229c2d890f89c99e013ef267783e59bcaef6b373fd6cabc7&req=dSMhH8l8mIhWW%2FMW1HO4zelbWwaBxzCB0QSuaujBRxMWcAnj5Zci65x5xq2K%0ACGeX%0A)
+
+  7. In the new window, press "**Connect"**
+
+![](https://downloads.intercomcdn.com/i/o/s36tbegb/1369026204/33c250f53e8b74ef0e9680b67fc5/image.png?expires=1754573400&signature=34549da17e91bdbfbf1027f47e36c269852e7694b54743b3407f7e137890196f&req=dSMhH8l8m4NfXfMW1HO4zZ5Uakyb2WUyF0GRJpb79BiMFfzLdWOzyEAJ4s%2FA%0ADfrr%0A)
+
+  8. Choose your login method 
+
+![](https://downloads.intercomcdn.com/i/o/s36tbegb/1332812953/07e0c3649ecbaca61df120d403bc/image.png?expires=1754573400&signature=0c2db54b28751fa5a8bf95214cfad6cade0582b7eecdb9abb689cc4c3fe29807&req=dSMkFMF%2Fn4haWvMW1HO4zUOoBgiWetjvl2%2BPpxcaOe1JWsgL17aCMqU5bH54%0A71eg%0A)
+
+  9. When finished, you will find your Instagram account in the linked account field. This will allow helpers to make Instagram posts.
+
+![](https://downloads.intercomcdn.com/i/o/s36tbegb/1333117522/10174bccc9b49aeeb60ab0fe6fc7/image.png?expires=1754573400&signature=ac1bcd9ed75e718e6ed1cb88bf2a705e5cc044108909ca045c9c156145f8566a&req=dSMkFch%2FmoRdW%2FMW1HO4zWIgxRJYWGLGhFSQR3ud2qHloIrN1YqBHnKH15HD%0A3AVy%0A)
+
+
+
+
+You have now set up a connection between your Instagram account and Facebook page! If you have multiple Facebook pages, make sure to repeat the steps for other Instagram profiles. Once finished, you can start the integration process for Brain AI.
+
+* * *
+
+## Connecting a Facebook Page
+
+To start using your Facebook or Facebook + Instagram account in Sintra, you will need to integrate it inside Brain AI. To make an integration, follow these steps:
+
+  1. Click on the Brain AI button in the sidebar
+
+![](https://downloads.intercomcdn.com/i/o/s36tbegb/1369034737/adbb4e6e377a8702ca8213d9c638/AD_4nXf5cOoKB1QcmxzBIpwXvljnXza60HkDspcjPdpnZox88-fm9NySs2Nh-A6ZgnkqwuQ0w_A7No-UiRSRJ7Sndy0aT7IGSJ9xLE2qMVP8VmG3czQ9CkYNVwwm2Lcu5gv5slP53qbTYw?expires=1754573400&signature=a7c26cdebb6f3fb2ffda7d4364beb8306d354892f01b4a5a0095e5c97620f070&req=dSMhH8l9mYZcXvMW1HO4zRjL639Uc%2BO0qTpRchHdCUydkeeFZyqC1j6edpWf%0ATymY%0A)
+
+  2. Locate the Facebook + Instagram integration, click "**Connect** " and "**Add new account** " 
+
+![](https://downloads.intercomcdn.com/i/o/s36tbegb/1369034921/8262eff2207c3b3681e00931ccb0/AD_4nXdppqO_xAMbkl4ZdSRVapMFAyzJKtZ3oBV58y8hFY4kofZ9tpIo3uTUyzl2lKNUAqXuoB5kiwPXjFudEOCzb4kptxC3m2McBlaoa_-lXx-O03Cc6atu5cJdYppdidLlw6TmT3dzRQ?expires=1754573400&signature=96c2abdc2a37ac6e4df8c4c253844cc8105c28f13916dde5c4e821de95b07e2c&req=dSMhH8l9mYhdWPMW1HO4zTYhc71tsk3qPv%2ByFYL6XhiQRH6Zn5RQPvisqleN%0A7W%2FB%0A)
+
+  3. In the new window that appears, enter your account information and press **"Log in"**
+
+![](https://downloads.intercomcdn.com/i/o/s36tbegb/1369035063/4634a221ca166485cc6cf774a1f0/AD_4nXenP8uSB8cX4UnmTJg__HDgBPz42vD0fPW_3XlTPCynbrY6nNkpROYCsKa_LCYlIoB5-lGCl9klfnEfsaZCmUCpmEGhT61ELkpWaDVpYHEbpuYi06tRbQ9Nwy5KrEkRw5pijHWFkg?expires=1754573400&signature=afe2042d02bf8d7baed48888e2894a060a47500fd354bc5f9986e06d38a48678&req=dSMhH8l9mIFZWvMW1HO4zT5wC9gAE1%2B0VRJf7wT3CDX8d5Z4vYax1olz5Zxp%0AHGqj%0A)
+
+  4. In the next window, allow Sintra App to integrate
+
+![](https://downloads.intercomcdn.com/i/o/s36tbegb/1369035382/9fc25be0be4106165a5ee4b8b019/AD_4nXdi9aGmvvoXqhFQya6EK40z6rtL71zK4Nfd1mXUDSNYTLs_8BFsyJHwOYnRUFYhxIX38doxEBNz85003z6BOqf0v-fCHgOzvcdiECIoKfBuzkgxWiCqMKpsONaNsiwCdFqURxDy?expires=1754573400&signature=573bf7eed05f6a06958e09284f5940a71506c8aefc959f7f5b8fea8f57807a65&req=dSMhH8l9mIJXW%2FMW1HO4zZ7hdawGWhTUkFMCq5HUXGG7%2BTm1Ut94jVyO1YLz%0Agwvp%0A)
+
+  5. The connection to your account will be made and the "**Connect** " button will change to a **green checkmark**
+
+![](https://downloads.intercomcdn.com/i/o/s36tbegb/1369035450/23383086517db7542408c108928e/AD_4nXdQRUoy6T7JZSp20Bjb6q8-cQOSxpOlTDnTkdTXylfzyBqVN64Z7IdJ-Nk3NwLUfmSM2Tda1l_7t6syLa6trteNpqp0giIrLT3rDv3kVP8BH19doXPubQdczO8gkCuBGXWdtChv3w?expires=1754573400&signature=053b69e93b22c682e672c32e27d5e70dea86912f05fcc29a57aeed57304fab20&req=dSMhH8l9mIVaWfMW1HO4zZ38cIdXWP%2BGv6fKcMEGu%2F%2BM8PH4hHd%2BiLarEU8K%0ArmBS%0A)
+
+
+
+
+That's it! Soshie will now have the ability to use your Facebook + Instagram account for content management. Find out more here: [Using Social Media on Sintra](https://help.sintra.ai/en/articles/11053937-how-to-manage-posts-on-social-media-using-sintra-ai)
+
+* * *
+
+# FAQ
+
+## Why is my personal account used to connect with Sintra?
+
+Sintra integrates with your Facebook and Instagram pages through Meta's official API. Since Facebook pages must be linked to a personal Facebook account, your personal profile serves as the secure access point for connecting these platforms to Sintra.
+
+## Why is there no separate Instagram integration?
+
+The Facebook + Instagram integration handles your Instagram requests through one unified system. This integration allows you to manage multiple Instagram business accounts, as long as they're linked to your Facebook pages. Each Facebook page can have its own connected Instagram account, giving you the flexibility to manage several business profiles through a single Sintra connection.
+
+## Can this integration manage my direct messages?
+
+Currently, direct messages (DMs) on Facebook and Instagram are not supported through Sintra's Facebook + Instagram integration. The integration is primarily used to help you manage your social media content and posts effectively.
+
+## Can I integrate my personal profile?
+
+Tthe Facebook+Instagram integration supports only Facebook pages and Instagram Business or Creator accounts that are connected to a Facebook page. If your personal page is nor Business or Creator on Instagram or a page on Facebook - it will not be supported.
+
+## Can I integrate only Instagram?
+
+No, a Facebook page is needed in order for the integration to work. The Facebook page does not have to be functional; however, it has to exist and the Instagram profile has to be connected to it via Meta Suite. Otherwise, the integration will not work. After setting up the connection, you will be able to choose what social medias and which pages you want to post to!

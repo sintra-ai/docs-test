@@ -1,0 +1,31 @@
+# Create User-Generated Content (UGC) for Sintra
+
+**Author:** Unknown  
+**Created:** 1750156850  
+**Updated:** 1750169455  
+**Article ID:** 11588591  
+
+---
+
+### How to start creating UGC for Sintra
+
+In addition to Sintra's affiliate program, which can be found [here](https://help.sintra.ai/en/articles/9675436-sintra-ai-affiliate-program), Sintra also offers you the opportunity to provide us with your own user-generated content. To get your content approved by Sintra, you will need to follow these guidelines for your video:
+
+  * Film vertically (9:16, 1080px, HDR off)
+
+  * Keep it well-lit & make sure your face is clearly visible
+
+  * Record in a quiet place (no background noise)
+
+  * No filters, color grading, or edits - just the raw footage!
+
+  * Avoid wearing clothing with logos
+
+  * Ensure good contrast between you & your background
+
+
+
+
+Once you're done, simply send your content to [ugc@sintra.ai](mailto:ugc@sintra.ai) via a WeTransfer or Google Drive link. For further information regarding reimbursement, you will be contacted by the Sintra team after your content is approved.
+
+**Disclaimer:** By submitting, you agree that we may use your content for social media and commercial purposes.
