@@ -1,82 +1,42 @@
-# Intercom Knowledge Base Exporter
+# Sintra AI Documentation
 
-This script exports all help articles from your Intercom Help Center to local Markdown files.
+This repository contains the help center documentation for Sintra AI, organized for deployment on Scalar Docs.
 
-## Setup
-
-1. Install required dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-2. Get your Intercom Access Token:
-   - Go to https://app.intercom.com/a/apps/_/developer-hub
-   - Create a new app or use an existing one
-   - Navigate to "Authentication" section
-   - Copy your Access Token
-
-3. Configure your API key:
-   - Edit the `.env` file
-   - Replace `your_access_token_here` with your actual Intercom Access Token
-
-## Usage
-
-Run the export script (it will use the token from .env):
-
-```bash
-python export_intercom_articles.py
-```
-
-Or pass the token directly:
-
-```bash
-python export_intercom_articles.py --token YOUR_ACCESS_TOKEN
-```
-
-Optional parameters:
-- `--output` or `-o`: Specify output directory (default: "articles")
-
-Example:
-```bash
-python export_intercom_articles.py --token YOUR_ACCESS_TOKEN --output my-help-articles
-```
-
-## Output Structure
-
-The script will create the following directory structure:
+## Structure
 
 ```
-articles/
-├── collections/
-│   └── [collection-name]/
-│       └── [article-id]_[article-title].md
-├── sections/
-│   └── [section-id]/
-│       └── [article-id]_[article-title].md
-├── uncategorized/
-│   └── [article-id]_[article-title].md
-└── export_metadata.json
+docs/
+├── getting-started/    # Onboarding and initial setup
+├── core-features/      # Main platform features
+├── helpers/            # AI assistant profiles
+├── how-to-guides/      # Step-by-step tutorials
+├── integrations/       # Third-party connections
+├── billing/            # Pricing and payments
+├── support/            # Troubleshooting
+├── policies/           # Legal and terms
+└── legacy/             # Deprecated products
 ```
 
-Each Markdown file includes:
-- Article title
-- Author information
-- Creation and update timestamps
-- Article ID and parent information
-- Full article content converted from HTML to Markdown
+## Deployment
 
-## Features
+This documentation is automatically deployed to Scalar Docs at:
+https://sintra-docs-test.apidocumentation.com
 
-- Exports all public help center articles
-- Converts HTML content to clean Markdown format
-- Organizes articles by collections and sections
-- Handles rate limiting automatically
-- Saves metadata about the export
-- Sanitizes filenames for filesystem compatibility
+Changes pushed to the main branch are automatically published.
 
-## Notes
+## Local Development
 
-- The script only exports public-facing help center articles
-- Internal knowledge base articles are not accessible via the API
-- Rate limit: 1000 API calls per minute
-- The script includes delays to avoid hitting rate limits
+1. Clone the repository
+2. Edit markdown files in the `docs/` directory
+3. Push changes to trigger automatic deployment
+
+## Configuration
+
+The `scalar.config.json` file controls the documentation structure and appearance.
+
+## Contributing
+
+1. Create a new branch for your changes
+2. Edit the relevant markdown files
+3. Submit a pull request
+4. Changes will be published automatically when merged
