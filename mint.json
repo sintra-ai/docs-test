@@ -1,0 +1,141 @@
+{
+  "$schema": "https://mintlify.com/schema.json",
+  "name": "Sintra AI Help Center",
+  "logo": {
+    "dark": "/logo/dark.svg",
+    "light": "/logo/light.svg"
+  },
+  "favicon": "/favicon.svg",
+  "colors": {
+    "primary": "#5C5CFF",
+    "light": "#7C7CFF",
+    "dark": "#4C4CEF"
+  },
+  "topbarLinks": [
+    {
+      "name": "Support",
+      "url": "https://help.sintra.ai"
+    }
+  ],
+  "topbarCtaButton": {
+    "name": "Dashboard",
+    "url": "https://app.sintra.ai"
+  },
+  "tabs": [
+    {
+      "name": "Documentation",
+      "url": "docs"
+    }
+  ],
+  "navigation": [
+    {
+      "group": "Getting Started",
+      "pages": [
+        "docs/getting-started/onboarding-to-sintra-tutorial",
+        "docs/getting-started/login-to-sintra",
+        "docs/getting-started/how-to-navigate-the-sintra-ai-web-app",
+        "docs/getting-started/is-sintra-ai-free-to-use",
+        "docs/getting-started/who-created-sintra-ai"
+      ]
+    },
+    {
+      "group": "Core Features",
+      "pages": [
+        "docs/core-features/brain-ai-explained",
+        "docs/core-features/sintra-ai-workspaces-explained",
+        "docs/core-features/sintra-ai-bots-custom-gptos-explained",
+        "docs/core-features/sintra-ai-prompts-explained",
+        "docs/core-features/upload-files-into-brain-ai-to-get-the-best-responses",
+        "docs/core-features/sintra-ai-brains-explained",
+        "docs/core-features/automations-in-sintra-ai-explained",
+        "docs/core-features/chrome-extension-web-assistant",
+        "docs/core-features/how-to-create-a-brain",
+        "docs/core-features/create-custom-sintra-bots-gpts-for-any-use-case",
+        "docs/core-features/web-assistant-from-sintra-ai",
+        "docs/core-features/how-can-i-download-an-image-generated-by-brain-ai"
+      ]
+    },
+    {
+      "group": "Billing & Payments",
+      "pages": [
+        "docs/billing-payments/sintras-plans",
+        "docs/billing-payments/how-much-does-sintra-ai-cost",
+        "docs/billing-payments/what-payment-methods-do-you-accept",
+        "docs/billing-payments/can-you-get-a-refund-for-sintra-ai",
+        "docs/billing-payments/how-to-change-payment-method-on-sintra-ai",
+        "docs/billing-payments/change-or-cancel-your-sintra-ai-plan"
+      ]
+    },
+    {
+      "group": "Account Management",
+      "pages": [
+        "docs/account-management/what-is-my-username-on-sintra-ai",
+        "docs/account-management/how-to-change-my-email-address",
+        "docs/account-management/how-to-delete-my-account",
+        "docs/account-management/how-to-reset-your-password",
+        "docs/account-management/how-to-change-your-name-on-sintra-ai",
+        "docs/account-management/will-you-share-or-sell-my-personal-information"
+      ]
+    },
+    {
+      "group": "AI Helpers",
+      "pages": [
+        "docs/ai-helpers/marky-the-social-media-manager",
+        "docs/ai-helpers/christopher-the-coding-assistant",
+        "docs/ai-helpers/margot-the-scriptwriter",
+        "docs/ai-helpers/stella-the-storyteller",
+        "docs/ai-helpers/sir-arthur-conan-doyle-the-brand-kit-generator",
+        "docs/ai-helpers/bonnie-the-seo-optimized-writer",
+        "docs/ai-helpers/bernard-the-business-analyst",
+        "docs/ai-helpers/hank-the-human-resources-manager",
+        "docs/ai-helpers/cassie-the-customer-support-agent",
+        "docs/ai-helpers/ada-the-accountant",
+        "docs/ai-helpers/penelope-the-presentation-and-slide-deck-designer",
+        "docs/ai-helpers/jess-the-job-hunter",
+        "docs/ai-helpers/edward-the-email-assistant",
+        "docs/ai-helpers/rockwell-the-researcher",
+        "docs/ai-helpers/abby-the-amazon-product-listing-copywriter",
+        "docs/ai-helpers/tammy-the-task-management-assistant",
+        "docs/ai-helpers/arthur-the-article-writer",
+        "docs/ai-helpers/ellie-the-ecommerce-entrepreneur"
+      ]
+    },
+    {
+      "group": "Integrations",
+      "pages": [
+        "docs/integrations/how-to-connect-sintra-ai-with-google-drive",
+        "docs/integrations/export-brain-ai-conversation-to-notion",
+        "docs/integrations/connect-sintra-ai-to-wordpress",
+        "docs/integrations/sintra-ai-works-with-a-variety-of-platforms",
+        "docs/integrations/does-sintra-ai-integrate-with-slack",
+        "docs/integrations/does-sintra-ai-integrate-with-google-docs",
+        "docs/integrations/sintra-ai-to-gmail-integration",
+        "docs/integrations/how-to-integrate-sintra-ai-to-notion",
+        "docs/integrations/connect-sintra-ai-to-slack",
+        "docs/integrations/connect-sintra-ai-to-asana",
+        "docs/integrations/sintra-ai-to-facebook-integration"
+      ]
+    },
+    {
+      "group": "Troubleshooting",
+      "pages": [
+        "docs/troubleshooting/having-issues-with-sintra-ai-try-clearing-your-cache-and-cookies",
+        "docs/troubleshooting/how-to-contact-sintra-ai-customer-support",
+        "docs/troubleshooting/i-forgot-my-password",
+        "docs/troubleshooting/how-long-does-the-support-team-take-to-respond",
+        "docs/troubleshooting/get-in-touch-with-the-sintra-ai-customer-support-team",
+        "docs/troubleshooting/fix-connection-time-out-issue-on-brain-ai"
+      ]
+    },
+    {
+      "group": "API & Development",
+      "pages": [
+        "docs/api-development/sintra-ai-api-key"
+      ]
+    }
+  ],
+  "footerSocials": {
+    "x": "https://twitter.com/sintraai",
+    "linkedin": "https://linkedin.com/company/sintra-ai"
+  }
+}
