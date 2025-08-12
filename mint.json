@@ -29,7 +29,71 @@
   ],
   "navigation": [
     {
+      "group": "Introduction",
+      "pages": [
+        "docs/introduction"
+      ]
+    },
+    {
       "group": "Getting Started",
+      "pages": [
+        "docs/getting-started-new/account-creation-and-login",
+        "docs/getting-started-new/workspace-layout",
+        "docs/getting-started-new/home-page"
+      ]
+    },
+    {
+      "group": "Helpers & Chat",
+      "pages": [
+        "docs/helpers-new/helpers-overview",
+        "docs/helpers-new/chat-interface",
+        "docs/helpers-new/powerups-vs-automations"
+      ]
+    },
+    {
+      "group": "Inbox & History",
+      "pages": [
+        "docs/inbox-history/inbox",
+        "docs/inbox-history/history"
+      ]
+    },
+    {
+      "group": "Brain AI",
+      "pages": [
+        "docs/brain-ai/what-is-brain-ai",
+        "docs/brain-ai/managing-knowledge",
+        "docs/brain-ai/adding-knowledge",
+        "docs/brain-ai/personalization-questions",
+        "docs/brain-ai/integrations"
+      ]
+    },
+    {
+      "group": "Automations",
+      "pages": [
+        "docs/automations/automations-overview",
+        "docs/automations/facebook-commenter",
+        "docs/automations/daily-summarizer",
+        "docs/automations/social-media-manager"
+      ]
+    },
+    {
+      "group": "Settings & Account",
+      "pages": [
+        "docs/settings/settings-overview"
+      ]
+    },
+    {
+      "group": "Additional Features",
+      "pages": [
+        "docs/referral-program",
+        "docs/experimental-features",
+        "docs/best-practices",
+        "docs/faq-troubleshooting",
+        "docs/internal-notes"
+      ]
+    },
+    {
+      "group": "Legacy - Getting Started",
       "pages": [
         "docs/getting-started/onboarding-to-sintra-tutorial",
         "docs/getting-started/login-to-sintra",
@@ -39,7 +103,7 @@
       ]
     },
     {
-      "group": "Core Features",
+      "group": "Legacy - Core Features",
       "pages": [
         "docs/core-features/brain-ai-explained",
         "docs/core-features/sintra-ai-workspaces-explained",
@@ -56,7 +120,7 @@
       ]
     },
     {
-      "group": "Billing & Payments",
+      "group": "Legacy - Billing & Payments",
       "pages": [
         "docs/billing-payments/sintras-plans",
         "docs/billing-payments/how-much-does-sintra-ai-cost",
@@ -67,7 +131,7 @@
       ]
     },
     {
-      "group": "Account Management",
+      "group": "Legacy - Account Management",
       "pages": [
         "docs/account-management/what-is-my-username-on-sintra-ai",
         "docs/account-management/how-to-change-my-email-address",
@@ -78,7 +142,7 @@
       ]
     },
     {
-      "group": "AI Helpers",
+      "group": "Legacy - AI Helpers",
       "pages": [
         "docs/ai-helpers/marky-the-social-media-manager",
         "docs/ai-helpers/christopher-the-coding-assistant",
@@ -101,7 +165,7 @@
       ]
     },
     {
-      "group": "Integrations",
+      "group": "Legacy - Integrations",
       "pages": [
         "docs/integrations/how-to-connect-sintra-ai-with-google-drive",
         "docs/integrations/export-brain-ai-conversation-to-notion",
@@ -117,7 +181,7 @@
       ]
     },
     {
-      "group": "Troubleshooting",
+      "group": "Legacy - Troubleshooting",
       "pages": [
         "docs/troubleshooting/having-issues-with-sintra-ai-try-clearing-your-cache-and-cookies",
         "docs/troubleshooting/how-to-contact-sintra-ai-customer-support",
@@ -128,7 +192,7 @@
       ]
     },
     {
-      "group": "API & Development",
+      "group": "Legacy - API & Development",
       "pages": [
         "docs/api-development/sintra-ai-api-key"
       ]
