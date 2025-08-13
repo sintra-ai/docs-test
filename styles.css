@@ -1,0 +1,141 @@
+/* Custom styles for Sintra AI Documentation */
+
+:root {
+  --blue-50: #eff6ff;
+  --blue-100: #dbeafe;
+  --blue-200: #bfdbfe;
+  --blue-300: #93c5fd;
+  --blue-400: #60a5fa;
+  --blue-500: #3b82f6;
+  --blue-600: #2563eb;
+  --blue-700: #1d4ed8;
+  --blue-800: #1e40af;
+  --blue-900: #1e3a8a;
+}
+
+/* Custom font styling - matching Sintra's font stack */
+body {
+  font-family: system-ui, -apple-system, 'Segoe UI', 'Roboto', 'Helvetica Neue', 'Arial', sans-serif;
+  color: #000000;
+}
+
+/* Ensure all headings are black */
+h1, h2, h3, h4, h5, h6 {
+  color: #000000 !important;
+  font-weight: 600;
+  background: none !important;
+  -webkit-text-fill-color: unset !important;
+}
+
+/* Improve readability */
+.prose {
+  max-width: 75ch;
+  color: #000000;
+}
+
+/* Better code blocks */
+pre {
+  border-radius: 0.5rem;
+  border: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+/* Better navigation styling with blue accents */
+.sidebar-link:hover {
+  background: rgba(59, 130, 246, 0.05);
+  border-left: 3px solid #3b82f6;
+}
+
+/* Card styling */
+.card {
+  border-radius: 0.5rem;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+  transition: all 0.2s ease;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px -4px rgba(0, 0, 0, 0.08), 0 3px 5px -2px rgba(0, 0, 0, 0.04);
+  transform: translateY(-2px);
+}
+
+/* Better buttons */
+button, .button {
+  border-radius: 0.5rem;
+  font-weight: 500;
+  transition: all 0.2s ease;
+}
+
+button:hover, .button:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(59, 130, 246, 0.15);
+}
+
+/* Search input styling */
+input[type="search"] {
+  border-radius: 0.5rem;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 0.5rem 1rem;
+  color: #000000;
+}
+
+input[type="search"]:focus {
+  border-color: #3b82f6;
+  box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.1);
+}
+
+/* Table styling */
+table {
+  border-radius: 0.5rem;
+  overflow: hidden;
+  border: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+th {
+  background: rgba(59, 130, 246, 0.05);
+  font-weight: 600;
+  color: #000000;
+}
+
+/* Ensure all text elements are black */
+p, li, span, div, a {
+  color: #000000;
+}
+
+/* Links should use blue */
+a {
+  color: #3b82f6;
+}
+
+a:hover {
+  color: #2563eb;
+}
+
+/* Improve dark mode */
+.dark {
+  --blue-500: #60a5fa;
+  --blue-600: #3b82f6;
+}
+
+.dark body {
+  color: #ffffff;
+}
+
+.dark h1, .dark h2, .dark h3, .dark h4, .dark h5, .dark h6 {
+  color: #ffffff !important;
+}
+
+.dark p, .dark li, .dark span, .dark div {
+  color: #ffffff;
+}
+
+.dark pre {
+  border-color: rgba(255, 255, 255, 0.05);
+}
+
+.dark table {
+  border-color: rgba(255, 255, 255, 0.05);
+}
+
+.dark th {
+  background: rgba(59, 130, 246, 0.1);
+  color: #ffffff;
+}

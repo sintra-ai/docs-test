@@ -1,25 +1,61 @@
 {
   "$schema": "https://mintlify.com/schema.json",
   "name": "Sintra AI Help Center",
+  "metadata": {
+    "og:title": "Sintra AI Help Center",
+    "og:description": "Complete documentation for Sintra AI - Your digital assistant platform with 12 AI helpers, Brain AI knowledge base, and automation workflows",
+    "og:image": "https://sintra.ai/og-image.png",
+    "twitter:card": "summary_large_image",
+    "twitter:site": "@sintraai"
+  },
+  "analytics": {
+    "gtm": {
+      "tagId": "GTM-XXXXX"
+    }
+  },
+  "feedback": {
+    "thumbsRating": true,
+    "suggestEdit": true
+  },
+  "search": {
+    "prompt": "Search Sintra documentation..."
+  },
   "logo": {
-    "dark": "/logo/dark.svg",
+    "dark": "/logo/dark.png",
     "light": "/logo/light.svg"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/favicon.ico",
   "colors": {
-    "primary": "#5C5CFF",
-    "light": "#7C7CFF",
-    "dark": "#4C4CEF"
+    "primary": "#3b82f6",
+    "light": "#60a5fa",
+    "dark": "#2563eb",
+    "background": {
+      "dark": "#0f172a",
+      "light": "#ffffff"
+    },
+    "anchors": {
+      "from": "#3b82f6",
+      "to": "#60a5fa"
+    }
   },
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "https://help.sintra.ai"
+      "name": "Website",
+      "url": "https://sintra.ai"
+    },
+    {
+      "name": "Pricing",
+      "url": "https://sintra.ai/pricing"
+    },
+    {
+      "name": "Blog",
+      "url": "https://sintra.ai/blog"
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://app.sintra.ai"
+    "name": "Go to App",
+    "url": "https://app.sintra.ai",
+    "style": "pill"
   },
   "tabs": [
     {
@@ -213,7 +249,17 @@
     }
   ],
   "footerSocials": {
-    "x": "https://twitter.com/sintraai",
-    "linkedin": "https://linkedin.com/company/sintra-ai"
-  }
+    "x": "https://x.com/sintradotai",
+    "linkedin": "https://www.linkedin.com/company/sintradotai",
+    "instagram": "https://www.instagram.com/sintra.ai",
+    "facebook": "https://www.facebook.com/trysintra"
+  },
+  "modeToggle": {
+    "default": "light",
+    "isHidden": false
+  },
+  "primaryTab": {
+    "name": "Documentation"
+  },
+  "css": ["/styles.css"]
 }
